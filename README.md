@@ -1,4 +1,4 @@
-### Hi there 👋 i am Prakhar Sharma
+<h1>Hi there 👋 i am Prakhar Sharma</h1>
 
   </header>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
@@ -43,10 +43,5 @@
 
 
 
-- 🔭 I’m currently working on Website Development 
-- 🌱 I’m currently learning MERN
-- 🤔 I’m looking for help with ReactJS
-- 💬 Ask me about ReactJS
-- 📫 How to reach me: 
-- ⚡ Fun fact: Everything looks easy until you do it.
+
 
