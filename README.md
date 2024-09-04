@@ -10,7 +10,7 @@
     </section>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         <h2>Introduction</h2>
-        <p>Hello! I am Prakhar Sharma, a final year student pursuing a Bachelor of Technology in Computer Science Engineering. I have a passion for problem-solving in the fields of Data Structures and Algorithms (DSA) using Java and a keen interest in software development using MERN.</p>
+        <p>Hello! I am Prakhar Sharma. I have Completed  Bachelor of Technology in Computer Science Engineering in 2024. I have a passion for problem-solving in the fields of Data Structures and Algorithms (DSA) using Java and a keen interest in software development using MERN.</p>
     </section>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         <h2>Experience</h2>
