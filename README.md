@@ -5,12 +5,12 @@
         <h2>About Me</h2>
         <ul>
             <li><strong>Field:</strong> Software Developer </li>
-            <li><strong>Education:</strong> Bachelor of Technology in Computer Science Engineering (Final Year Student)</li>
+            <li><strong>Education:</strong> Bachelor of Technology in Computer Science Engineering (2024)</li>
         </ul>
     </section>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         <h2>Introduction</h2>
-        <p>Hello! I am Prakhar Sharma. I have Completed  Bachelor of Technology in Computer Science Engineering in 2024. I have a passion for problem-solving in the fields of Data Structures and Algorithms (DSA) using Java and a keen interest in software development using MERN.</p>
+        <p>Hello! I am Prakhar Sharma. I have Completed  Bachelor of Technology in Computer Science Engineering in 2024. I have a passion for problem-solving in the fields of Data Structures and Algorithms (DSA) using Java and a keen interest in software development using Java.</p>
     </section>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         <h2>Experience</h2>
