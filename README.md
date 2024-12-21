@@ -20,15 +20,14 @@
         <h2>Skills</h2>
         <ul>
             <li>Problem Solving</li>
-            <li>Data Structures and Algorithms (DSA) using Java</li>
-            <li>Java</li>
-            <li>Reactjs</li>
-            <li>JavaScript</li>
+            <li>Data Structures and Algorithms (DSA) (using Java)</li>
+            <li>Java (Core Java Collections, JDBC, File Handling)</li>
+            <li>Reactjs  (Axios, Json Server, Hooks)</li>
+            <li>JavaScript </li>
             <li>HTML</li>
-            <li>CSS</li>
-            <li>Bootstrap5</li>
-             <li>PHP</li>
-            <li>MYSql</li>
+            <li>CSS (Figma2Html, Animation)</li>
+            <li>Bootstrap5 (Bootstarp Classes, Bootstrap Customization) </li>
+             <li>PHP (Crud Applicatioins) </li>
         </ul>
     </section>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
