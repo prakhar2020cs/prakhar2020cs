@@ -19,7 +19,7 @@
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         <h2>Skills</h2>
         <ul>
-            <li>Problem Solving</li>
+            <li>Problem Solving, One of my personal problem that i solved--> I was having a problem that any notes app i downloaded was not able to remain on top. If i click on browser or any other app then the notes app was moved to background, I was able to solve that by creating a desktop notes app and todo app, Using java with swings and applet</li>
             <li>Data Structures and Algorithms (DSA) (using Java)</li>
             <li>Java (Core Java Collections, JDBC, I.O. File Handling)</li>
             <li>Reactjs  (Hooks, Router, ContextAPI)</li>
@@ -29,7 +29,6 @@
             <li>HTML</li>
             <li>CSS (Figma2Html, Animation)</li>
             <li>Bootstrap5 (Bootstarp Classes, Bootstrap Customization) </li>
-             <li>PHP (Crud Applicatioins) </li>
         </ul>
     </section>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
