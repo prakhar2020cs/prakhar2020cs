@@ -24,7 +24,7 @@
             <li>Java (Core Java Collections, JDBC, I.O. File Handling)</li>
             <li>Reactjs  (Hooks, Router, ContextAPI)</li>
           <li>Node.js(Middleware, Webhooks, Sockets, RestFull APIs)</li>
-          <li>Next.js</li>
+          <li>Next.js(SSR, ISG)</li>
             <li>JavaScript </li>
             <li>HTML</li>
             <li>CSS (Figma2Html, Animation)</li>
