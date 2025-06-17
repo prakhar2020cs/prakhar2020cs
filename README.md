@@ -1,4 +1,4 @@
-<h1>Hi there 👋 i am Prakhar Sharma</h1>
+<h1>Hi there 👋 i am Prakhar</h1>
 
   </header>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
