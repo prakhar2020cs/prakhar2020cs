@@ -21,8 +21,10 @@
         <ul>
             <li>Problem Solving</li>
             <li>Data Structures and Algorithms (DSA) (using Java)</li>
-            <li>Java (Core Java Collections, JDBC, File Handling)</li>
-            <li>Reactjs  (Axios, Json Server, Hooks)</li>
+            <li>Java (Core Java Collections, JDBC, I.O. File Handling)</li>
+            <li>Reactjs  (Axios, Json Server, Hooks, Router, ContextAPI)</li>
+          <li>Node.js(Middleware, Webhooks, Sockets, RestFull APIs)</li>
+          <li>Next.js</li>
             <li>JavaScript </li>
             <li>HTML</li>
             <li>CSS (Figma2Html, Animation)</li>
