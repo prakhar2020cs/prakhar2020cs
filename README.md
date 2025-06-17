@@ -13,9 +13,6 @@
         <p>Hello! I am Prakhar Sharma. I have Completed  Bachelor of Technology in Computer Science Engineering in 2024. I have a passion for problem-solving in the fields of Data Structures and Algorithms (DSA) using Java and keen interest in software development using MERN and Next.js.</p>
     </section>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
-        <h2>Experience</h2>
-        <p>During my internship as a Front End Developer, I have honed my skills in various technologies including Java, Reactjs, JavaScript, HTML, CSS, and Bootstrap5. This experience has led to exponential growth in my knowledge and abilities in web development.</p>
-    </section>
     <section style="padding: 20px; margin-bottom: 20px; background-color: #fff; border-radius: 5px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);">
         <h2>Skills</h2>
         <ul>
