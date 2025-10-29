@@ -18,10 +18,10 @@
         <ul>
             <li>Problem Solving, One of my personal problem that i solved--> I was having a problem that any notes app i downloaded was not able to remain on top. If i click on browser or any other app then the notes app was moved to background, I was able to solve that by creating a desktop notes app and todo app, Using java with swings and applet</li>
             <li>Data Structures and Algorithms (DSA) (using Java)</li>
-            <li>Java (Core Java Collections, JDBC, I.O. File Handling)</li>
             <li>Reactjs  (Hooks, Router, ContextAPI)</li>
-          <li>Node.js(Middleware, Webhooks, Sockets, RestFull APIs)</li>
-          <li>Next.js(SSR, ISG)</li>
+          <li>Node.js(Middleware, RestFull APIs)</li>
+          <li>ASP.NET-MVC (MIgrations, Views, Middleware, Identity Framework, Entity Framework Core), ADO.Net, Minimal-API</li>
+            <li> MS SQL (Functions, Procedures, Table relationship mapping )</li>
             <li>JavaScript </li>
             <li>HTML</li>
             <li>CSS (Figma2Html, Animation)</li>
